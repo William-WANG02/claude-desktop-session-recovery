@@ -7,6 +7,8 @@ Sessions often vanish from the sidebar after you switch accounts or organization
 - scans every account/org folder and shows which sessions still have their transcript (restorable) and which were cleaned up;
 - copies session metadata into the currently signed-in account, backing up the destination first and never overwriting anything.
 
+Tested on the Claude desktop app for macOS (October 2026). After copying and restarting the app, the sessions reappeared in the sidebar with their full conversation history.
+
 ## Install
 
 ```bash
